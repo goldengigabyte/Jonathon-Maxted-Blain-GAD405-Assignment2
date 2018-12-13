@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{59BB8E79-9460-0BB1-66B2-F180961919E9}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/Convo_Default.cs">
+    <Files>
+      <File FileName="Assets/Code/Balloon.cs" Line="12" Column="6" />
+      <File FileName="Assets/Code/Scene_Button.cs" Line="11" Column="1" />
+      <File FileName="Assets/Code/Change.cs" Line="5" Column="1" />
+      <File FileName="Assets/Code/Adventure_Game.cs" Line="14" Column="27" />
+      <File FileName="Assets/Code/coin.cs" Line="8" Column="39" />
+      <File FileName="Assets/Code/Door_is_locked_drongo.cs" Line="8" Column="60" />
+      <File FileName="Assets/Code/Convo_Default.cs" Line="5" Column="45" />
+      <File FileName="Assets/Code/i_has_keesburger.cs" Line="5" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
