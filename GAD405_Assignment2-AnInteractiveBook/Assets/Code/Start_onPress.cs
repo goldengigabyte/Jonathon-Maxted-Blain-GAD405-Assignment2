@@ -8,17 +8,17 @@ public class Start_onPress : MonoBehaviour {
 	public GameObject Open_Menu;
 	public GameObject UI_KeepAlive;
 	public Text Message;
-	private string Score;
 	public Text Score_Out;
 	public string Next_Scene;
+	public int Call_Num;
 
 	public void Awake(){
 		UI_KeepAlive.gameObject.SetActive(false);
-		DontDestroyOnLoad(UI_KeepAlive);
-		Score = "NaN40404";
+		Next_Scene = "scene1";
+		Call_Num = 0;
 	}
 	private void FixedUpdate(){
-		Score_Out.text = Score;
+		Score_Out.text = "NaN40404";
 	}
 	public void Start_Game(){
         SceneManager.LoadScene(Next_Scene);
